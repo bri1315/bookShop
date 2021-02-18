@@ -1,10 +1,8 @@
 #include <iostream>
 #include <fstream>
-//#include <char>
 #include <string>
 #include <sstream>
 #include <vector>
-//#include<char.h>
 #include<stdlib.h>
 
 using namespace std;
