@@ -10,11 +10,11 @@ import sys
 import mysql.connector
 from mysql.connector import Error
 
-mypass = "#####"
-mydatabase="books"
 
 
-con = mysql.connector.connect(host='localhost',database='books',user='root', password='dog2971521')
+
+
+con = mysql.connector.connect(host='localhost',database='books',user='root', password='#######')
 cur = con.cursor()
 
 def mainMenu():
